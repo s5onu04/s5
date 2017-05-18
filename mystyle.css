@@ -1,0 +1,33 @@
+﻿.topnav {
+    background-color: #fff;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    opacity: 25%
+}
+
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #4286f4;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Segoe UI Light
+}
+
+             
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: blue;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: ;
+    color: white; #ea8344
+}
